@@ -34,6 +34,15 @@
       "phone": "1234567890",
       "role": "user",
       "createdAt": "2025-09-19T03:02:31.659Z"
+    },
+    {
+      "id": "mtolxy2mzpbq",
+      "name": "Ritik Kumar",
+      "email": "ritik@gmail.com",
+      "password": "Ritik@123",
+      "phone": "9808470386",
+      "role": "user",
+      "createdAt": "2026-09-05T16:39:01.775Z"
     }
   ],
   "services": [
@@ -549,6 +558,20 @@
       "updatedAt": "2025-09-21T11:52:15.750Z",
       "feedback": "good service",
       "stars": 5
+    },
+    {
+      "id": "mtolyunrk7u1",
+      "userId": "mtolxy2mzpbq",
+      "serviceId": "1",
+      "serviceName": "💇 Men's Haircut",
+      "price": 120,
+      "date": "2026-09-06",
+      "slot": "10:00 AM - 10:30 AM",
+      "status": "pending",
+      "createdAt": "2026-09-05T16:39:44.041Z",
+      "cancellationReason": "",
+      "cancelledBy": "",
+      "cancelledAt": ""
     }
   ],
   "notifications": [
